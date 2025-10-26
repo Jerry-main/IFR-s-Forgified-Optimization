@@ -1,2 +1,2 @@
 # IFR-s-Forgified-Optimization
-IFR's Forgified Optimization 1.12.2
+IFR's Forgified Optimization Modpack 1.12.2
