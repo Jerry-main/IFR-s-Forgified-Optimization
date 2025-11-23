@@ -16,3 +16,7 @@
 首次安装可能时间较长。
 
 此整合包提供了**Celeritas**，故不兼容**Optifine**。
+
+# 包含模组
+
+见 https://www.mcmod.cn/modpack/1256.html 。
