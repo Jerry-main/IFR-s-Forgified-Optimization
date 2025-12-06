@@ -5,6 +5,7 @@
 
 此整合包集成了1.12.2的一些优化模组，使得低门槛设备在1.12.2享受目前很好的优化。
 
+目前有分支 https://github.com/Jerry-main/IFR-s-Forgified-Optimization-Extensive 。
 # 使用说明
 
 使用前请先安装**Java 21**和**Java 8**。
